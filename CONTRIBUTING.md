@@ -5,7 +5,7 @@ sovereignty! We welcome contributions from anyone on the internet, and are grate
 
 ## Ways to contribute
 
-There are many ways to contribute to the ZK Stack:
+There are many ways to contribute to the ZK-Stack:
 
 1. Open issues: if you find a bug, have something you believe needs to be fixed, or have an idea for a feature, please
    open an issue.
